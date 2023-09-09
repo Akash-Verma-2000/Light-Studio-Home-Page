@@ -1,0 +1,48 @@
+.header-hover:hover{
+    color: #6ea8fe !important;
+
+}
+.search-icon{
+   
+ 
+    
+    color: white !important;
+
+}
+.search-icon:hover{
+    color: #6ea8fe !important;
+}
+.first-color{
+    color: #031633 !important;
+}
+.bg-first-color{
+    color: white;
+    background-color: #031633 !important;
+
+}
+.second-color{
+    color: #6ea8fe !important;
+
+}
+.header-item{
+    color: white !important;
+    font-weight: 500;
+}
+.header-icon{
+  background-color: white;
+ 
+color: #6ea8fe!important;
+}
+#tagline{
+    font-weight: 600 !important;
+}
+.sbt-btn{
+    background-color: #031633;
+    color: #6ea8fe;
+
+}
+.sbt-btn:hover{
+    background-color: #6ea8fe !important;
+    color: #031633 !important;
+
+}
