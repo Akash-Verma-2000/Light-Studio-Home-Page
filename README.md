@@ -10,7 +10,7 @@ Created a custom website template purely for practice purposes, aimed at refinin
 
 ![Home Page](/Light-house-home-page.jpg "Home Page")
 ![Home Page](/Light-house-home-page-(1).jpg "Home Page")
-![Home Page](/Light-20house-home-page-(2).jpg "Home Page")
+![Home Page](/Light-house-home-page-(2).jpg "Home Page")
 
 
 
