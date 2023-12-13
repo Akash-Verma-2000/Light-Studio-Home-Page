@@ -1,4 +1,4 @@
-# Light-Studio-Home-Page
+# Light Studio Home Page
 
 Created a custom website template purely for practice purposes, aimed at refining HTML, CSS, and Bootstrap skills. This template showcases a blend of structured content and stylish design elements, emphasizing a responsive layout. Developed to enhance proficiency in web development, utilizing Bootstrap for streamlined design and HTML/CSS for content structure.
 
