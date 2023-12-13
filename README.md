@@ -9,7 +9,7 @@ Created a custom website template purely for practice purposes, aimed at refinin
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## Screenshot
+## Screenshots
 
 ![Home Page](/Light-house-home-page.jpg "Home Page")
 ![Home Page](/Light-house-home-page-(1).jpg "Home Page")
